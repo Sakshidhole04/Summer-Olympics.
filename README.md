@@ -1,10 +1,10 @@
 # Summer-Olympics.
-## Assignment solution of Summer Olympics Dataset Analysis
-### Solutions of Summer Olympics Dataset Analysis
+### Assignment solution of Summer Olympics Dataset Analysis
+#### Solutions of Summer Olympics Dataset Analysis
 1.  This is a Project on Summer Olympics Analysis made by using Python.
 2.  Modules Used - pandas, numpy, collections, matplotlib
 3.  Concepts Used Through the Project-->> i. File Handling ii. Importing Modules iii. Basic Data Structures concepts like - DICTIONARY, LISTS etc iv. Basic Data manipulation
-### Questions Answered in the Project
+#### Questions Answered in the Project
 In how many cities Summer Olympics is held so far?
 1.  Which sport is having most number of Gold Medals so far? (Top 5)
 2.  Which sport is having most number of medals so far? (Top 5)
